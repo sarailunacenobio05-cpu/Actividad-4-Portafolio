@@ -40,11 +40,11 @@ Actividad 4/
 
 El portafolio está estructurado mediante una navegación fluida de una sola página, compuesta por los siguientes menús y secciones:
 
-1. **Barra de Navegación (*Navbar*)
-2. **Inicio / Cabecera (*Masthead*)
-3. **Sobre mí (*About*)
-4. **Proyectos (*Portfolio*)
-5. **Contacto (*Contact*)
+1. Barra de Navegación (*Navbar*)
+2. Inicio / Cabecera (*Masthead*)
+3. Sobre mí (*About*)
+4. Proyectos (*Portfolio*)
+5. Contacto (*Contact*)
 
 ---
 
