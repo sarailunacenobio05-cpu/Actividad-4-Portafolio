@@ -40,11 +40,11 @@ Actividad 4/
 
 El portafolio está estructurado mediante una navegación fluida de una sola página, compuesta por los siguientes menús y secciones:
 
-1. Barra de Navegación (*Navbar*)
-2. Inicio / Cabecera (*Masthead*)
-3. Sobre mí (*About*)
-4. Proyectos (*Portfolio*)
-5. Contacto (*Contact*)
+1. Barra de Navegación (Navbar): Facilita la navegación dentro de la página.
+2. Inicio / Cabecera (Masthead): Es lo primero que se ve al abrir la página. Tiene una imagen de fondo con un tono oscurecido para que el título de bienvenida resalte y se lea sin problema desde el primer momento.
+3. Sobre mí (About): Un espacio rápido para contar quién soy, qué estudio y cuáles son las áreas de la tecnología que más me llaman la atención.
+4. Proyectos (Portfolio): Apartado destinado a mostrar los proyectos en los que he trabajado.
+5. Contacto (Contact): La última parte de la página, diseñada para facilitar que se puedan comunicar conmigo de forma directa.
 
 ---
 
